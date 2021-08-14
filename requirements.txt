@@ -1,0 +1,158 @@
+absl-py @ file:///C:/ci/absl-py_1615411329183/work
+aiohttp==3.7.4.post0
+altgraph==0.17
+apex==0.1
+async-timeout==3.0.1
+attrs @ file:///tmp/build/80754af9/attrs_1620827162558/work
+backports.entry-points-selectable==1.1.0
+blinker==1.4
+CacheControl==0.12.6
+cachetools @ file:///tmp/build/80754af9/cachetools_1619597386817/work
+cachy==0.3.0
+certifi==2021.5.30
+cffi==1.14.3
+chardet==4.0.0
+charset-normalizer==2.0.3
+cleo==0.8.1
+click==8.0.1
+clikit==0.6.2
+colorama==0.4.4
+ConfigArgParse @ file:///tmp/build/80754af9/configargparse_1615837118917/work
+contextvars==2.4
+coverage==4.4.1
+crashtest==0.3.1
+cryptography==2.9.2
+cycler==0.10.0
+Cython==0.26
+dataclasses @ file:///tmp/build/80754af9/dataclasses_1614363715916/work
+decorator==4.1.2
+distlib==0.3.2
+et-xmlfile==1.0.1
+filelock==3.0.12
+Flask==1.1.2
+Flask-Cors==3.0.10
+future==0.18.2
+gevent==1.2.2
+google-auth @ file:///tmp/build/80754af9/google-auth_1622042963536/work
+google-auth-oauthlib==0.4.1
+graia-application-mirai==0.19.0
+graia-broadcast==0.8.11
+greenlet==0.4.12
+grpcio @ file:///C:/ci/grpcio_1614884461394/work
+html5lib==1.1
+huggingface-hub==0.0.12
+idna==3.2
+idna-ssl @ file:///C:/ci/idna_ssl_1611752657819/work
+immutables==0.15
+importlib-metadata==4.0.1
+importlib-resources==5.2.2
+ipython==6.1.0
+ipython-genutils==0.2.0
+iterwrapper==0.1.4
+itsdangerous==1.1.0
+jdcal==1.3
+jedi==0.10.2
+jieba==0.42.1
+Jinja2==2.11.3
+joblib==1.0.1
+keyring==21.8.0
+kiwisolver @ file:///C:/ci/kiwisolver_1612282446297/work
+llvmlite==0.32.1
+lockfile==0.12.2
+lxml==4.6.3
+Markdown==2.6.9
+MarkupSafe==1.1.1
+matplotlib @ file:///C:/ci/matplotlib-suite_1613408055530/work
+mkl-fft==1.3.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+msgpack==1.0.2
+multidict @ file:///C:/ci/multidict_1607362067746/work
+numba==0.43.0
+numpy==1.19.5
+oauthlib==3.1.0
+olefile==0.44
+openpyxl==2.4.8
+packaging==20.9
+pandas==0.25.3
+pastel==0.2.1
+path.py==10.3.1
+patsy==0.5.1
+pefile==2021.5.24
+pexpect==4.8.0
+pickleshare==0.7.4
+Pillow @ file:///C:/ci/pillow_1617386325740/work
+pkginfo==1.7.1
+platformdirs==2.1.0
+poetry==1.1.7
+poetry-core==1.0.3
+portalocker==2.0.0
+prettytable==2.1.0
+prompt-toolkit==1.0.15
+protobuf==3.17.0
+ptyprocess==0.7.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+PyAudio==0.2.11
+pycparser==2.18
+pydantic==1.7.1
+pyecharts==1.9.0
+Pygments==2.2.0
+pyinstaller==4.4
+pyinstaller-hooks-contrib==2021.2
+PyJWT @ file:///C:/ci/pyjwt_1610918671830/work
+pylev==1.4.0
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
+pyparsing==2.4.7
+pyrouge==0.1.3
+PySocks==1.6.6
+python-dateutil==2.6.1
+pytz==2017.2
+pywin32==300
+pywin32-ctypes==0.2.0
+PyYAML==5.4.1
+regex==2020.11.13
+requests==2.26.0
+requests-oauthlib==1.3.0
+requests-toolbelt==0.9.1
+rsa @ file:///tmp/build/80754af9/rsa_1614366226499/work
+sacrebleu==1.5.1
+sacremoses==0.0.45
+scikit-learn @ file:///C:/ci/scikit-learn_1614446902030/work
+scipy==1.2.1
+seaborn==0.7.1
+sentencepiece==0.1.94
+shellingham==1.4.0
+simplegeneric==0.8.1
+simplejson==3.17.2
+six==1.16.0
+sklearn==0.0
+statsmodels==0.12.2
+subword-nmt==0.3.7
+tensorboard @ file:///home/builder/ktietz/aggregate/tensorflow_recipes/ci_baze37/tensorboard_1622025863084/work/tensorboard-2.5.0-py3-none-any.whl
+tensorboard-plugin-wit==1.6.0
+tensorboardX==2.2
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+tokenizers==0.10.3
+tomlkit==0.7.2
+torch==1.8.1
+torchaudio==0.8.1
+torchtext==0.9.1
+torchvision==0.9.1
+tornado==4.5.2
+tqdm==4.61.2
+traitlets==4.3.2
+transformers==4.4.2
+typing-extensions==3.10.0.0
+urllib3==1.26.6
+virtualenv==20.6.0
+wcwidth==0.1.7
+webencodings==0.5.1
+Werkzeug==1.0.1
+win-inet-pton==1.0.1
+wincertstore==0.2
+xlrd==1.1.0
+xlutils==2.0.0
+xlwt==1.3.0
+yarl @ file:///C:/ci/yarl_1606921989557/work
+zipp==3.5.0

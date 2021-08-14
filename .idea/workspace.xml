@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3702e985-f2ff-4288-bf7b-567f90a0ade0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rO03gi8p6OX81sjxU68utSDcS5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo/GPT2/GPT2-chitchat-master" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="W:\project\pytorch_project\epidemic_pridiction\text" />
+      <recent name="W:\project\pytorch_project\epidemic_pridiction\html_part\static" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="W:\project\pytorch_project\epidemic_pridiction\html_part\assets\images" />
+      <recent name="W:\project\pytorch_project\epidemic_pridiction\html_part" />
+      <recent name="W:\project\pytorch_project\epidemic_pridiction" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Train">
+    <configuration name="BPNN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="epidemic_pridiction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BPNN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="epidemic_pridiction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="echarts_drawing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="epidemic_pridiction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/text" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text/echarts_drawing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="epidemic_pridiction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/text" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zhishu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="epidemic_pridiction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/text" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text/zhishu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Train" />
+        <item itemvalue="Python.BPNN" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3702e985-f2ff-4288-bf7b-567f90a0ade0" name="Default Changelist" comment="" />
+      <created>1618831630533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618831630533</updated>
+      <workItem from="1618831631841" duration="3248000" />
+      <workItem from="1618837916120" duration="5345000" />
+      <workItem from="1618877700655" duration="1528000" />
+      <workItem from="1618934015804" duration="1155000" />
+      <workItem from="1618986545386" duration="1266000" />
+      <workItem from="1619002551580" duration="1821000" />
+      <workItem from="1619006199890" duration="3841000" />
+      <workItem from="1619088165557" duration="2889000" />
+      <workItem from="1619097695261" duration="1258000" />
+      <workItem from="1620107457696" duration="4695000" />
+      <workItem from="1620388866130" duration="689000" />
+      <workItem from="1620391252466" duration="1069000" />
+      <workItem from="1620398044554" duration="227000" />
+      <workItem from="1620447902944" duration="2825000" />
+      <workItem from="1620456119004" duration="29000" />
+      <workItem from="1620456183585" duration="6089000" />
+      <workItem from="1620463424276" duration="8892000" />
+      <workItem from="1620524477788" duration="6592000" />
+      <workItem from="1621137998561" duration="642000" />
+      <workItem from="1621347807947" duration="43000" />
+      <workItem from="1621990316060" duration="1939000" />
+      <workItem from="1622007145889" duration="98000" />
+      <workItem from="1622017095034" duration="91000" />
+      <workItem from="1623563131464" duration="3577000" />
+      <workItem from="1623637286127" duration="98000" />
+      <workItem from="1623643471906" duration="1274000" />
+      <workItem from="1624603651814" duration="622000" />
+      <workItem from="1624844005769" duration="12000" />
+      <workItem from="1625064712722" duration="99000" />
+      <workItem from="1625137905732" duration="1828000" />
+      <workItem from="1625187252527" duration="11000" />
+      <workItem from="1625282981295" duration="1215000" />
+      <workItem from="1625287704824" duration="2000" />
+      <workItem from="1627011067987" duration="1227000" />
+      <workItem from="1627090995896" duration="1246000" />
+      <workItem from="1628475518085" duration="3344000" />
+      <workItem from="1628568293559" duration="6883000" />
+      <workItem from="1628644113122" duration="1096000" />
+      <workItem from="1628647159128" duration="2488000" />
+      <workItem from="1628656820268" duration="4022000" />
+      <workItem from="1628739261794" duration="1381000" />
+      <workItem from="1628819207282" duration="600000" />
+      <workItem from="1628908871015" duration="1086000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="515" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620461015797">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="515" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1620461015797" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1628739351973">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="-1234" y="234" key="FileChooserDialogImpl/-1920.0.1920.1080/0.0.1536.864@-1920.0.1920.1080" timestamp="1625141413803" />
+    <state x="549" y="187" key="FileChooserDialogImpl/-1920.0.1920.1080/0.0.1536.864@0.0.1536.864" timestamp="1625138875997" />
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1628739351973" />
+    <state width="1493" height="236" key="GridCell.Tab.0.bottom" timestamp="1628591439608">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1877" height="244" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1536.864@-1920.0.1920.1080" timestamp="1623646786646" />
+    <state width="1493" height="184" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1536.864@0.0.1536.864" timestamp="1620480758792" />
+    <state width="1493" height="236" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1628591439608" />
+    <state width="1493" height="236" key="GridCell.Tab.0.center" timestamp="1628591439608">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1877" height="244" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1536.864@-1920.0.1920.1080" timestamp="1623646786646" />
+    <state width="1493" height="184" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1536.864@0.0.1536.864" timestamp="1620480758792" />
+    <state width="1493" height="236" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1628591439608" />
+    <state width="1493" height="236" key="GridCell.Tab.0.left" timestamp="1628591439608">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1877" height="244" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1536.864@-1920.0.1920.1080" timestamp="1623646786646" />
+    <state width="1493" height="184" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1536.864@0.0.1536.864" timestamp="1620480758792" />
+    <state width="1493" height="236" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1628591439608" />
+    <state width="1493" height="236" key="GridCell.Tab.0.right" timestamp="1628591439608">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1877" height="244" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1536.864@-1920.0.1920.1080" timestamp="1623646786646" />
+    <state width="1493" height="184" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1536.864@0.0.1536.864" timestamp="1620480758792" />
+    <state width="1493" height="236" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1628591439608" />
+    <state x="449" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1628908878469">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="449" y="256" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1080/0.0.1536.864@0.0.1536.864" timestamp="1621137998467" />
+    <state x="449" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1628908878469" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/epidemic_pridiction$BPNN.coverage" NAME="BPNN Coverage Results" MODIFIED="1628480859322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/epidemic_pridiction$Train.coverage" NAME="Train Coverage Results" MODIFIED="1628591439600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

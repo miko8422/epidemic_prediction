@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+
+    <!--改icon-->
+    <link rel="icon" href="assets/images/AI.ico">
+    <title>疫情小预测</title>
+    
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="assets/css/fontawesome.css">
+    <link rel="stylesheet" href="assets/css/templatemo-grad-school.css">
+    <link rel="stylesheet" href="assets/css/owl.css">
+    <link rel="stylesheet" href="assets/css/lightbox.css">
+<!--
+    
+TemplateMo 557 Grad School
+
+https://templatemo.com/tm-557-grad-school
+
+-->
+  </head>
+
+<body>
+
+   
+  <!--header-->
+  <header class="main-header clearfix" role="header">
+    <div class="logo">
+      <a href="#"><em>疫情</em> 小预测</a>
+    </div>
+    <a href="#menu" class="menu-link"><i class="fa fa-bars"></i></a>
+    <nav id="menu" class="main-nav" role="navigation">
+      <ul class="main-menu">
+        <li><a href="#section1">首页</a></li>
+        <li><a href="#section6">关于我们</a></li>
+        <!-- <li><a href="#section5">Video</a></li> -->
+        <li><a href="#section3">更多</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- ***** Main Banner Area Start ***** -->
+  <section class="section main-banner" id="top" data-section="section1">
+      <video autoplay muted loop id="bg-video">
+          <source src="assets/images/epidemic.mp4" type="video/mp4" />
+      </video>
+
+      <div class="video-overlay header-text">
+          <div class="caption">
+              <h6></h6>
+            <h2>基于 <em>LSTM</em>和<em>BPNN</em> 的神经网络预测模型</h2>
+          </div>
+      </div>
+  </section>
+  <!-- ***** Main Banner Area End ***** -->
+
+
+  <section class="features">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-4 col-12">
+          <div class="features-post">
+            <div class="features-content">
+              <div class="content-show">
+                <h4><i class="fa fa-pencil"></i>LSTM</h4>
+              </div>
+              <div class="content-hide">
+                <p>长短期记忆网络（LSTM，Long Short-Term Memory）是一种时间循环神经网络，是为了解决一般的RNN（循环神经网络）存在的长期依赖问题而专门设计出来的，所有的RNN都具有一种重复神经网络模块的链式形式。在标准RNN中，这个重复的结构模块只有一个非常简单的结构，例如一个tanh层。</p>
+                <p class="hidden-sm"></p>
+                <div class="scroll-to-section"><a href="#">More Info.</a></div>
+            </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-12">
+          <div class="features-post second-features">
+            <div class="features-content">
+              <div class="content-show">
+                <h4><i class="fa fa-graduation-cap"></i>BPNN</h4>
+              </div>
+              <div class="content-hide">
+                <p>BP神经网络是最基础的神经网络，其输出结果采用前向传播，误差采用反向传播方式进行。通过模仿人类的神经元激活、传递过程实现人工智能。以三层神经网络为例，BP神经网络含输入层、隐含层、输出层三层结构。输入层接收数据，输出层输出数据，前一层神经元连接到下一层神经元，收集上一层神经元传递来的信息，经过“激活”把值传递给下一层。</p>
+                <p class="hidden-sm"></p>
+                <div class="scroll-to-section"><a href="#">Details</a></div>
+            </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-12">
+          <div class="features-post third-features">
+            <div class="features-content">
+              <div class="content-show">
+                <h4><i class="fa fa-book"></i>PyTorch</h4>
+              </div>
+              <div class="content-hide">
+                <p>PyTorch是一个开源的Python机器学习库，基于Torch，用于自然语言处理等应用程序。2017年1月，由Facebook人工智能研究院（FAIR）基于Torch推出了PyTorch。它是一个基于Python的可续计算包，提供两个高级功能：1、具有强大的GPU加速的张量计算（如NumPy）。2、包含自动求导系统的深度神经网络。</p>
+                <p class="hidden-sm"></p>
+                <div class="scroll-to-section"><a href="#">Read More</a></div>
+            </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section why-us" data-section="section2">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="section-heading">
+            <h2>预测数据</h2>
+          </div>
+        </div>
+        <div class="col-md-12">
+          <div id='tabs'>
+            <ul>
+              <li><a href='#tabs-1'>LSTM</a></li>
+              <li><a href='#tabs-2'>BPNN</a></li>
+              <li><a href='#tabs-3'>LOSS Function</a></li>
+            </ul>
+            <section class='tabs-content'>
+              <article id='tabs-1'>
+                <div class="row">
+                  <div class="col-md-6">
+                    <img src="assets/images/04.jpg" alt="">
+                  </div>
+                  <div class="col-md-6">
+                    <h4>爆发后的250天</h4>
+                    <p>左图为在训练神经网络数千次之后，将疫情爆发后的250天内武汉地区疫情情况导入神经网络后，神经网络所给出的预测。
+                    <br/>这个单纯依靠LSTM所搭建的网络都看似是成功。不过当我们采用更多数量的数据或者使用更加久远的数据时，该网络呈现出了欠拟合的状态，从图中更久远的数据中可以看出这一点
+                    <br/><br/>红色为实际数据，而蓝色为神经网络所给出的预测值</p>
+                  </div>
+                </div>
+              </article>
+              <article id='tabs-2'>
+                <div class="row">
+                  <div class="col-md-6">
+                    <img src="assets/images/02.png" alt="">
+                  </div>
+                  <div class="col-md-6">
+                    <h4><em>BPNN</em> 预测结果</h4>
+                    <p>左图为BPNN神经网络所给出的对于武汉在一月十号至一月十八号疫情情况的预测值。折线的趋势越相似、重合度越高，证明神经网络预判值越准确。
+                    <br/>由于BP神经网络需要对大量特征数值分析纠正再学习，所以BPNN相较于LSTM等其他模型训练起来更为缓慢</p>
+                    <p>红色虚线为实际当天日期武汉感染人数，蓝色实线为BPNN反向传播神经网络所给出的预测值</p>
+                  </div>
+                </div>
+              </article>
+              <article id='tabs-3'>
+                <div class="row">
+                  <div class="col-md-6">
+                    <img src="assets/images/03.png" alt="">
+                  </div>
+                  <div class="col-md-6">
+                    <h4>损失函数</h4>
+                    <p>左图为训练神经网络模型时，损失函数的变化情况。
+                    <br/>损失函数越平缓，越低，证明神经网络模型训练得到的预测值更准确，更具有实际意义的参考价值。图中函数图像为使用的relu激活函数在训练过程中损失值的函数图像。
+                    <br/><br/>蓝色折线为训练过程中损失函数的走势。</p>
+                  </div>
+                </div>
+              </article>
+            </section>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section coming-soon" data-section="section3">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-7 col-xs-12">
+          <div class="continer centerIt">
+            <div>
+              <h4 style="margin-top: 70px"><em>疫情</em>分类数据散点图</h4>
+              <div class="counter">
+                  <p style="font-size: 15px;color: #fff;line-height: 28px">2019年12月以来，湖北省武汉市持续开展流感及相关疾病监测，发现多起病毒性肺炎病例，均诊断为病毒性肺炎/肺部感染
+                  <br/>右图为疫情爆发25天后的全国感染人数变化情况，不难看出全国的疫情变化情况很快地从高爆发后迅速平息下来
+                  <br/><br/>红点为感染人数超过100人的地区，蓝点为介于100到50人之间的地区，绿点为介于50到0人之间的地区。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-5">
+          <div class="right-content">
+            <img src="assets/images/05.png" alt="" style="height: 50vh;width: 72vh">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section video" data-section="section5">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 align-self-center">
+          <div class="left-content">
+            <span>百 次 训 练 结 果</span>
+            <h4>使用 <em>GitHub</em> 爬取到的数据集</h4>
+            <p>左图所示为使用GitHub爬取到的数据中的数据信息进行<em>100</em>次训练之后损失函数的趋势，图中只使用了10条测试数据。
+            <br><br>紫色线条为训练过程中预测值与实际值的差值，蓝色线条为使用测试数据集中数据所得预测值与实际值差值
+            <br><br>图中线条重合度很高，神经网络模型的训练已经能比较准确的预测疫情的走向了</p>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <img src="assets/images/01.png" style="height: 50vh;width: 72vh">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section coming-soon" style="background-image: url(./assets/images/background_02.jpg);" data-section="section3">
+    <div class="container" style="">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="left-content">
+            <img src="avt_comper1.svg" alt="" style="margin-left:-16%;height: 50vh;width: 72vh">
+          </div>
+        </div>
+        <div class="col-md-6 col-xs-12">
+          <div class="continer centerIt">
+            <div>
+              <h4 style="margin-top: 70px">几种 <em>神经网络</em> 训练对比</h4>
+              <div class="counter">
+                <p style="font-size: 15px;color: #fff;line-height: 28px">与传统的RNN模型和LSTM模型相比，LSTM+BPNN深度神经网络结构模型汲取了LSTM优秀的拟合时间序列能力。
+                  <br/>LSTM+BPNN深度神经网络模型的均方误差更小更集中，预测得出的结果更加准确稳定，更能合理地预测新冠疫情。
+                  <br/><br/>蓝色为真实数据，深蓝色为LSTM训练后的预测数据，绿色为BPNN训练后的预测数据，而红色为项目实际使用的LSTM+BPNN网络结构训练后所得的预测数据</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="section coming-soon" style="background-image: url('assets/images/main-slider-03.jpg'); " data-section="section3">
+    <div class="container" style="">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="left-content">
+            <img src="avt_comper.svg" alt="" style="margin-left:-16%;height: 50vh;width: 72vh">
+          </div>
+        </div>
+        <div class="col-md-6 col-xs-12">
+          <div class="continer centerIt">
+            <div>
+              <h4 style="margin-top: 40px">几种 <em>激活函数</em> 误差对比</h4>
+              <div class="counter">
+                <p style="font-size: 15px;color: #fff;line-height: 28px">为度量网络的性能，提高预测效果，采用均方差平方根MSE函数作为损失函数对预测结果Zpredict和实际数据Ztrain求误差，并在训练中不断更新误差调整整体网络精度。
+                  <br/>ELU函数融合了Sigmoid和Relu函数的特点，左侧具有软饱和性，右侧线性部分可以缓解梯度消失，而左侧软饱能够让ELU对输入变化或噪声更鲁棒。ELU的输出均值接近于零，所以收敛速度更快。
+                  <br/><br/>图中为使用不同激活函数训练后得到的损失函数趋势，可以看出elu函数图像下降更快.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <section class="section coming-soon" style="background-image: url('assets/images/background_04.jpg'); " data-section="section3">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-7 col-xs-12">
+          <div class="continer centerIt">
+            <div>
+              <h4 style="margin-top: 40px">不同 <em>优化器</em> 对比</h4>
+              <div class="counter">
+                <p style="font-size: 15px;color: #fff;line-height: 28px">异步随机梯度下降法在每轮迭代中，每个工作节点在计算出随机梯度后直接更新到模型上，不再等待所有的计算节点完成梯度计算
+                  <br/>虽然ASGD优化器使用广泛，但是也存在梯度延迟的缺陷。而项目中使用了梯度函数的泰勒展开来有效逼近损耗函数的Hessian矩阵，成功地将ASGD优化器的性能优于了同步SGD和异步SGD的性能。
+                  <br/><br/>右图为使用不同的梯度优化器所得到的损失函数图像，不难看出优化后的ASGD明显优于其余的优化器。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-5">
+          <div class="right-content">
+            <img src="test.svg" alt="" style="height: 50vh;width: 72vh">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <footer data-section="section3">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <p><i class="fa fa-copyright"></i> Neural network model based on LSTM and BPNN
+          
+            | Design: <a href="https://github.com" rel="sponsored" target="_parent">黄傲然 <em>and</em> 张栩菱</a></p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <script src="assets/js/isotope.min.js"></script>
+    <script src="assets/js/owl-carousel.js"></script>
+    <script src="assets/js/lightbox.js"></script>
+    <script src="assets/js/tabs.js"></script>
+    <script src="assets/js/video.js"></script>
+    <script src="assets/js/slick-slider.js"></script>
+    <script src="assets/js/custom.js"></script>
+    <script>
+        //according to loftblog tut
+        $('.nav li:first').addClass('active');
+
+        var showSection = function showSection(section, isAnimate) {
+          var
+          direction = section.replace(/#/, ''),
+          reqSection = $('.section').filter('[data-section="' + direction + '"]'),
+          reqSectionPos = reqSection.offset().top - 0;
+
+          if (isAnimate) {
+            $('body, html').animate({
+              scrollTop: reqSectionPos },
+            800);
+          } else {
+            $('body, html').scrollTop(reqSectionPos);
+          }
+
+        };
+
+        var checkSection = function checkSection() {
+          $('.section').each(function () {
+            var
+            $this = $(this),
+            topEdge = $this.offset().top - 80,
+            bottomEdge = topEdge + $this.height(),
+            wScroll = $(window).scrollTop();
+            if (topEdge < wScroll && bottomEdge > wScroll) {
+              var
+              currentId = $this.data('section'),
+              reqLink = $('a').filter('[href*=\\#' + currentId + ']');
+              reqLink.closest('li').addClass('active').
+              siblings().removeClass('active');
+            }
+          });
+        };
+
+        $('.main-menu, .scroll-to-section').on('click', 'a', function (e) {
+          if($(e.target).hasClass('external')) {
+            return;
+          }
+          e.preventDefault();
+          $('#menu').removeClass('active');
+          showSection($(this).attr('href'), true);
+        });
+
+        $(window).scroll(function () {
+          checkSection();
+        });
+    </script>
+</body>
+</html>
